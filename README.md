@@ -25,10 +25,10 @@ for x in range (jumlah):
         print('data ke :',a,'==>', i)
 print("---SELESAI---")
 ```
-![latihan1](img/SS1.png)<br>
+![latihan1](img/SS6.png)<br>
 Berikut hasil run syntax latihan1 diatas :<br>
 
-![hasil running](img/SS2.png)<br>
+![hasil running](img/SS5.png)<br>
 
 # Latihan2
 # Algoritma
@@ -59,10 +59,10 @@ while True:
 print("Bilangan Terbesarnya Adalah = ",max)
 print("---SELESAI---")
 ```
-![latihan2](img/SS3.png)<br>
+![latihan2](img/SS4.png)<br>
 Berikut hasil run syntax latihan2 diatas :<br>
 
-![hasil running](img/SS4.png)<br>
+![hasil running](img/SS3.png)<br>
 
 # Program1
 # Soal !
@@ -117,7 +117,7 @@ for x in range(1,9):
 total = b+b+c+c+d+d+d+e
 print("Total laba yang didapat adalah",total)
 ```
-![program1](img/SS5.png)<br>
+![program1](img/SS2.png)<br>
 Berikut hasil run syntax program1 diatas :<br>
 
-![hasil running](img/SS6.png)<br>
+![hasil running](img/SS1.png)<br>
